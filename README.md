@@ -96,7 +96,7 @@ Reviews output quality and suggests improvements.
 
 ```
 
-# ⚙️ Installation
+## ⚙️ Installation
 
 Clone Repository
 
@@ -112,7 +112,7 @@ Run Application
 
 streamlit run app.py
 
-# 💡 Example Research Topics
+## 💡 Example Research Topics
 
 - Future of AI Jobs in India
 
@@ -126,7 +126,7 @@ streamlit run app.py
 
 - Autonomous AI Startups
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Memory across sessions
 
