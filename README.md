@@ -94,7 +94,10 @@ Reviews output quality and suggests improvements.
 ├── ui.png
 └── README.md
 
-⚙️ Installation
+```
+
+# ⚙️ Installation
+
 Clone Repository
 git clone https://github.com/shivamrustagi03/deepresearch-ai.git
 cd deepresearch-ai
@@ -103,7 +106,7 @@ pip install -r requirements.txt
 Run Application
 streamlit run app.py
 
-💡 Example Research Topics
+# 💡 Example Research Topics
 Future of AI Jobs in India
 LLM Agents in 2026
 Quantum Computing Breakthroughs
@@ -111,23 +114,7 @@ CRISPR Gene Editing Progress
 Fusion Energy Market Outlook
 Autonomous AI Startups
 
-🎯 Why This Project Matters
-
-This project demonstrates skills highly valued by recruiters.
-
-AI / GenAI Skills
-Multi-Agent Systems
-LLM Integration
-Prompt Engineering
-Autonomous AI Workflows
-AI Product Development
-Engineering Skills
-Modular Python Architecture
-Frontend + Backend Integration
-Real-World Deployment Thinking
-Clean UI / UX Design
-
-🔮 Future Improvements
+# 🔮 Future Improvements
 Memory across sessions
 PDF export reports
 Multi-language research
