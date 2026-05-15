@@ -140,6 +140,8 @@ streamlit run app.py
 
 - Team collaboration mode
 
+---
+
 👨‍💻 Author
 
 Shivam Rustagi
