@@ -99,28 +99,46 @@ Reviews output quality and suggests improvements.
 # ⚙️ Installation
 
 Clone Repository
+
 git clone https://github.com/shivamrustagi03/deepresearch-ai.git
+
 cd deepresearch-ai
+
 Install Requirements
+
 pip install -r requirements.txt
+
 Run Application
+
 streamlit run app.py
 
 # 💡 Example Research Topics
-Future of AI Jobs in India
-LLM Agents in 2026
-Quantum Computing Breakthroughs
-CRISPR Gene Editing Progress
-Fusion Energy Market Outlook
-Autonomous AI Startups
+
+- Future of AI Jobs in India
+
+- LLM Agents in 2026
+
+- Quantum Computing Breakthroughs
+
+- CRISPR Gene Editing Progress
+
+- Fusion Energy Market Outlook
+
+- Autonomous AI Startups
 
 # 🔮 Future Improvements
-Memory across sessions
-PDF export reports
-Multi-language research
-Browser automation agent
-Real-time citations
-Team collaboration mode
+
+- Memory across sessions
+
+- PDF export reports
+
+- Multi-language research
+
+- Browser automation agent
+
+- Real-time citations
+
+- Team collaboration mode
 
 👨‍💻 Author
 
